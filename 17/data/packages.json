@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Tests.TestsExamples",
+    "children" : [ {
+      "name" : "GetCompanyInvoices",
+      "uid" : "ad0b93eec9b56c28",
+      "parentUid" : "d62106e6a151f840d82fcb486f514cc7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1610285734475,
+        "stop" : 1610285735689,
+        "duration" : 1214
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "GetCompanyInvoices2",
+      "uid" : "c891d56ee23644d0",
+      "parentUid" : "d62106e6a151f840d82fcb486f514cc7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610285735735,
+        "stop" : 1610285736738,
+        "duration" : 1003
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Tests.TestsExamples"
+  } ],
+  "name" : "packages"
+}

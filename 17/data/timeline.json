@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az274-210",
+    "children" : [ {
+      "name" : "NonParallelWorker",
+      "children" : [ {
+        "name" : "GetCompanyInvoices2",
+        "uid" : "c891d56ee23644d0",
+        "parentUid" : "e33c5a65907b5d8a5d28742fa27a6f8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610285735735,
+          "stop" : 1610285736738,
+          "duration" : 1003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "GetCompanyInvoices",
+        "uid" : "ad0b93eec9b56c28",
+        "parentUid" : "e33c5a65907b5d8a5d28742fa27a6f8a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1610285734475,
+          "stop" : 1610285735689,
+          "duration" : 1214
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e33c5a65907b5d8a5d28742fa27a6f8a"
+    } ],
+    "uid" : "f16f3477bbfb87877bf1327bb8be45d4"
+  } ],
+  "name" : "timeline"
+}

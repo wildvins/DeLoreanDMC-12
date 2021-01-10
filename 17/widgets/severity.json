@@ -1,0 +1,21 @@
+[ {
+  "uid" : "c891d56ee23644d0",
+  "name" : "GetCompanyInvoices2",
+  "time" : {
+    "start" : 1610285735735,
+    "stop" : 1610285736738,
+    "duration" : 1003
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad0b93eec9b56c28",
+  "name" : "GetCompanyInvoices",
+  "time" : {
+    "start" : 1610285734475,
+    "stop" : 1610285735689,
+    "duration" : 1214
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

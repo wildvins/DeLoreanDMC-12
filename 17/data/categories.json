@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "test fail",
+      "children" : [ {
+        "name" : "GetCompanyInvoices",
+        "uid" : "ad0b93eec9b56c28",
+        "parentUid" : "289c0248ae7488004c2eb93a57e874f7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1610285734475,
+          "stop" : 1610285735689,
+          "duration" : 1214
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "289c0248ae7488004c2eb93a57e874f7"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
