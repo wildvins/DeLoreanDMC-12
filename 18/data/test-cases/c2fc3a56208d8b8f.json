@@ -1,0 +1,122 @@
+{
+  "uid" : "c2fc3a56208d8b8f",
+  "name" : "GetCompanyInvoices",
+  "fullName" : "Tests.TestsExamples.GetCompanyInvoices",
+  "historyId" : "Tests.TestsExamples.GetCompanyInvoices",
+  "time" : {
+    "start" : 1610339873459,
+    "stop" : 1610339874667,
+    "duration" : 1208
+  },
+  "status" : "failed",
+  "statusMessage" : "test fail",
+  "statusTrace" : "   at Tests.TestsExamples.GetCompanyInvoices() in /home/runner/work/DeLoreanDMC-12/DeLoreanDMC-12/AllureReportToGitHubPages/Tests/Class1.cs:line 16\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "test fail",
+    "statusTrace" : "   at Tests.TestsExamples.GetCompanyInvoices() in /home/runner/work/DeLoreanDMC-12/DeLoreanDMC-12/AllureReportToGitHubPages/Tests/Class1.cs:line 16\n",
+    "steps" : [ {
+      "name" : "GetCompanyInvoices",
+      "time" : {
+        "start" : 1610339873460,
+        "stop" : 1610339874661,
+        "duration" : 1201
+      },
+      "status" : "failed",
+      "statusMessage" : "test fail",
+      "statusTrace" : "   at Tests.TestsExamples.GetCompanyInvoices() in /home/runner/work/DeLoreanDMC-12/DeLoreanDMC-12/AllureReportToGitHubPages/Tests/Class1.cs:line 16\n",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "86acc02053531fee",
+        "name" : "Console Output",
+        "source" : "86acc02053531fee.txt",
+        "type" : "text/plain",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "fv-az274-210"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.TestsExamples"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetCompanyInvoices"
+  }, {
+    "name" : "package",
+    "value" : "Tests.TestsExamples"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "ad0b93eec9b56c28",
+        "reportUrl" : "https://wildvins.github.io/DeLoreanDMC-12/17//#testresult/ad0b93eec9b56c28",
+        "status" : "failed",
+        "statusDetails" : "test fail",
+        "time" : {
+          "start" : 1610285734475,
+          "stop" : 1610285735689,
+          "duration" : 1214
+        }
+      }, {
+        "uid" : "1909a23da9f6f13",
+        "reportUrl" : "https://wildvins.github.io/DeLoreanDMC-12/16//#testresult/1909a23da9f6f13",
+        "status" : "failed",
+        "statusDetails" : "test fail",
+        "time" : {
+          "start" : 1610278882513,
+          "stop" : 1610278883778,
+          "duration" : 1265
+        }
+      } ]
+    },
+    "tags" : [ "smoke" ]
+  },
+  "source" : "c2fc3a56208d8b8f.json",
+  "parameterValues" : [ ]
+}

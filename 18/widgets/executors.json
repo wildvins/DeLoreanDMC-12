@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://wildvins.github.io/DeLoreanDMC-12",
+  "buildOrder" : 18,
+  "buildName" : "GitHub Actions Run #476725597",
+  "buildUrl" : "https://github.com/wildvins/DeLoreanDMC-12/actions/runs/476725597",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://wildvins.github.io/DeLoreanDMC-12/18/"
+} ]
