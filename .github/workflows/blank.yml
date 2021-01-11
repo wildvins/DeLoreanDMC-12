@@ -60,4 +60,4 @@ jobs:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: allure-history 
-          allure_history: allure-history
+          allure_history: allure-history 
